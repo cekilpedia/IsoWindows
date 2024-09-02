@@ -18,9 +18,8 @@ Jelaskan secara lebih mendetail tentang proyek ini. Mengapa kamu membuatnya? Apa
 
 ## Fitur
 
-- Fitur 1
-- Fitur 2
-- Fitur 3
+- Username : Administrator
+- Password : WindowsCekil
 
 ## Instalasi
 
@@ -28,4 +27,4 @@ Instruksi langkah demi langkah tentang bagaimana menginstal dan menjalankan proy
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/nama-proyek.git
+   git clone https://github.com/cekilpedia/IsoWindows.git
