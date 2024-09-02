@@ -19,7 +19,7 @@ Jelaskan secara lebih mendetail tentang proyek ini. Mengapa kamu membuatnya? Apa
 ## Fitur
 
 - Username : Administrator
-- Password : WindowsCekil
+- Password : Windows@19Cekil
 
 ## Instalasi
 
